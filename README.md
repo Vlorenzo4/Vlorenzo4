@@ -14,11 +14,25 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 200px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 220px></picture>
 
 - 💻 Desarrollador <strong>Full Stack</strong> con fuerte interés en <strong>Backend</strong>
 - 🧠 Actualmente especializándome en <strong>desarrollo backend</strong
 - :email: Contactame valenvfx04@gmail.com
+
+<a href="https://www.instagram.com/_valentiin04/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+
+ <a href="https://x.com/Valentiin_6" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+ </a>
+
+ <a href="https://www.linkedin.com/in/valenlorenzo/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+
 
 <br>
 
