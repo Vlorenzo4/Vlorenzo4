@@ -56,12 +56,7 @@
 </p>
 
   <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Vlorenzo4&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-</td>
+
 
 
 <td width="50%" align="center">
