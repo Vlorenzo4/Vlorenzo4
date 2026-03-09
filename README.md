@@ -3,22 +3,28 @@
 
 <!--h1 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Valentin</h1></summary>
-  </ul>
+<div align="center">
+
+<h1>Hello My name is Valentin 👋</h1>
+<h2> Backend Developer | Node.js | TypeScript 🧑‍💻</h2>
+
 </div>
 
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 220px></picture>
 
-- 💻 Desarrollador <strong>Full Stack</strong> con fuerte interés en <strong>Backend</strong>
-- 🧠 Actualmente especializándome en <strong>desarrollo backend</strong>
-- :email: Contactame valenvfx04@gmail.com
+
+<p>
+Backend Developer focused on building server-side applications using Node.js and TypeScript.
+I enjoy working with databases, APIs and backend technologies such as NestJS and Express.
+Currently improving my backend development skills and learning new tools.
+</p>
+
+:email: Contact me: valenvfx04@gmail.com
 
 
  <a href="https://www.linkedin.com/in/valenlorenzo/" >
@@ -29,7 +35,8 @@
 
 <br>
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
+
 <p>
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
