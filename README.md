@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<h1>Hello My name is Valentin 👋</h1>
+<h1>Hola me llamo Valentin 👋</h1>
 <h2> Backend Developer | Node.js | TypeScript 🧑‍💻</h2>
 
 </div>
@@ -13,18 +13,16 @@
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Sobre mi
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 220px></picture>
 
 
 <p>
-Backend Developer focused on building server-side applications using Node.js and TypeScript.
-I enjoy working with databases, APIs and backend technologies such as NestJS and Express.
-Currently improving my backend development skills and learning new tools.
+Desarrollador backend especializado en la creación de aplicaciones del lado del servidor con Node.js y TypeScript. Disfruto trabajando con bases de datos, APIs y tecnologías backend como NestJS y Express. Actualmente, estoy perfeccionando mis habilidades de desarrollo backend y aprendiendo nuevas herramientas.
 </p>
 
-:email: Contact me: valenvfx04@gmail.com
+:email: Contactame: valenvfx04@gmail.com
 
 
  <a href="https://www.linkedin.com/in/valenlorenzo/" >
