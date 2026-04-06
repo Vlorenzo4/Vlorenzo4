@@ -33,7 +33,7 @@ Desarrollador backend especializado en la creación de aplicaciones del lado del
 
 <br>
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 
 <p>
 
